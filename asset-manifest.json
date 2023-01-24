@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Solar_Task-LLC/static/css/main.0cb7e79e.css",
+    "main.js": "/Solar_Task-LLC/static/js/main.02e16631.js",
+    "static/js/787.1d90adcc.chunk.js": "/Solar_Task-LLC/static/js/787.1d90adcc.chunk.js",
+    "static/media/img2.webp": "/Solar_Task-LLC/static/media/img2.aff671fc2cbe1ee5bbad.webp",
+    "static/media/img1.webp": "/Solar_Task-LLC/static/media/img1.e8568d31db5234ed9ce4.webp",
+    "static/media/solar.jpeg": "/Solar_Task-LLC/static/media/solar.f5713d2150386d1d4669.jpeg",
+    "static/media/light.woff": "/Solar_Task-LLC/static/media/light.064077261f6a7f314fdd.woff",
+    "static/media/bold.woff2": "/Solar_Task-LLC/static/media/bold.d56986b6b0700271250a.woff2",
+    "static/media/revicons.eot": "/Solar_Task-LLC/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Solar_Task-LLC/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Solar_Task-LLC/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/icon2.svg": "/Solar_Task-LLC/static/media/icon2.b479707708be29f42562cee26f5dc935.svg",
+    "static/media/icon1.svg": "/Solar_Task-LLC/static/media/icon1.e2eb730e24ba966f40afc074458857de.svg",
+    "static/media/icon4.svg": "/Solar_Task-LLC/static/media/icon4.7df5ba00e48d10cf0945017559b23197.svg",
+    "static/media/icon5.svg": "/Solar_Task-LLC/static/media/icon5.0986b961fc92ef30e3861c19fb48449e.svg",
+    "index.html": "/Solar_Task-LLC/index.html",
+    "static/media/icon3.svg": "/Solar_Task-LLC/static/media/icon3.06402d6061e2d4451b617220521cb330.svg",
+    "static/media/arrow.svg": "/Solar_Task-LLC/static/media/arrow.f88d8623379df51f1cd5bee84c0cb34b.svg",
+    "main.0cb7e79e.css.map": "/Solar_Task-LLC/static/css/main.0cb7e79e.css.map",
+    "main.02e16631.js.map": "/Solar_Task-LLC/static/js/main.02e16631.js.map",
+    "787.1d90adcc.chunk.js.map": "/Solar_Task-LLC/static/js/787.1d90adcc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cb7e79e.css",
+    "static/js/main.02e16631.js"
+  ]
+}
