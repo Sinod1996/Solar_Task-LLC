@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Solar_Task-LLC/static/css/main.efdb8d40.css",
-    "main.js": "/Solar_Task-LLC/static/js/main.3a582a11.js",
+    "main.css": "/Solar_Task-LLC/static/css/main.850201b2.css",
+    "main.js": "/Solar_Task-LLC/static/js/main.59ace046.js",
     "static/js/787.1d90adcc.chunk.js": "/Solar_Task-LLC/static/js/787.1d90adcc.chunk.js",
     "static/media/img2.webp": "/Solar_Task-LLC/static/media/img2.aff671fc2cbe1ee5bbad.webp",
     "static/media/img1.webp": "/Solar_Task-LLC/static/media/img1.e8568d31db5234ed9ce4.webp",
@@ -18,12 +18,12 @@
     "index.html": "/Solar_Task-LLC/index.html",
     "static/media/icon3.svg": "/Solar_Task-LLC/static/media/icon3.06402d6061e2d4451b617220521cb330.svg",
     "static/media/arrow.svg": "/Solar_Task-LLC/static/media/arrow.f88d8623379df51f1cd5bee84c0cb34b.svg",
-    "main.efdb8d40.css.map": "/Solar_Task-LLC/static/css/main.efdb8d40.css.map",
-    "main.3a582a11.js.map": "/Solar_Task-LLC/static/js/main.3a582a11.js.map",
+    "main.850201b2.css.map": "/Solar_Task-LLC/static/css/main.850201b2.css.map",
+    "main.59ace046.js.map": "/Solar_Task-LLC/static/js/main.59ace046.js.map",
     "787.1d90adcc.chunk.js.map": "/Solar_Task-LLC/static/js/787.1d90adcc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.efdb8d40.css",
-    "static/js/main.3a582a11.js"
+    "static/css/main.850201b2.css",
+    "static/js/main.59ace046.js"
   ]
 }
